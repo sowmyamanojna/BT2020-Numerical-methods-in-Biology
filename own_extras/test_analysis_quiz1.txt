@@ -1,0 +1,1 @@
+1 b) NaNs don't have unique representation
